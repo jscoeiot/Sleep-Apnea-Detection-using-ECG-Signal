@@ -87,7 +87,7 @@
       
 
 <p align="center">
- <img  src="https://github.com/sanket9006/Developer-Student-Clubs-DSC-Solution-Challenge-2020/blob/master/code.png">
+ <img  src="https://github.com/sanket9006/Sleep-Apnea-Detection-using-ECG-Signal/blob/master/code.png">
 </p>
 
 **High Level Design: -**
