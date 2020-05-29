@@ -124,7 +124,7 @@
        Google Colab is used as running this project on Local Machine requires a lot of computing
       power and resources
       
-**Acknowledgements and References: - **
+**Acknowledgements and References: -**
 
 Reference Papers: -
 
