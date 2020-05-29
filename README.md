@@ -90,7 +90,3 @@
  <img  src="https://github.com/sanket9006/Sleep-Apnea-Detection-using-ECG-Signal/blob/master/code.png">
 </p>
 
-**High Level Design: -**
-
-**High Level Design: -**
-
