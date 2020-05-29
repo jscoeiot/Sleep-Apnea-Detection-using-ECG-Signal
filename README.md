@@ -85,7 +85,10 @@
             Using T-distributed Stochastic Neighbor Embedding algorithm to visualize data.
       
       
-**High Level Design: -**
+
+<p align="center">
+ <img  src="https://github.com/sanket9006/Developer-Student-Clubs-DSC-Solution-Challenge-2020/blob/master/code.png">
+</p>
 
 **High Level Design: -**
 
