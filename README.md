@@ -38,3 +38,9 @@
 
 
 **High Level Design: -**
+
+<p align="center">
+ <img  src="https://github.com/sanket9006/Sleep-Apnea-Detection-using-ECG-Signal/blob/master/Flow.png">
+</p>
+
+
