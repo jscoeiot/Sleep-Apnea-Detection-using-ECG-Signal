@@ -90,3 +90,51 @@
  <img  src="https://github.com/sanket9006/Sleep-Apnea-Detection-using-ECG-Signal/blob/master/code.png">
 </p>
 
+
+**Technologies & Tools: -**
+
+      • Google Colab (Cloud)
+      • scipy
+      • numpy
+      • TSNE
+      • Sensor
+ 
+ 
+ **Deliverables: -**
+
+ 
+            As a result of given input program will give output as “Person has sleep apnea” or “Person
+      does not have sleep apnea”
+            It will also give 3D Diagram which will plot data graphically.
+
+
+**Quality Assurance and Quality Control: -**
+
+            As you can see in above screenshot when ML model is cross checked with testing dataset it
+      gives 65% accuracy.
+
+
+<p align="center">
+ <img  src="https://github.com/sanket9006/Sleep-Apnea-Detection-using-ECG-Signal/blob/master/Accuracy.PNG">
+</p>
+
+
+**Third Party Systems: -**
+
+       Google Colab is used as running this project on Local Machine requires a lot of computing
+      power and resources
+      
+**Acknowledgements and References: - **
+
+Reference Papers: -
+
+      [1] Sani M. Isa, Mohamad Ivan Fanany, Wisnu Jatmiko, Aniati Murni Arymurthy. Sleep Apnea
+      Detection from ECG Signal
+
+      [2] Majdi Bsoul, Hlaing Minn, Mehrdad Nourani, Gopal Gupta, William Brock and Lakshman S. Tamil.
+      Apnea MedAssist: A Personalized Low-Cost Sleep Apnea Monitor.
+
+      [3] Tao Wang, Changhua Lu and Guohao Shen. Detection of Sleep Apnea from Single-Lead ECG Signal
+      Using a Time Window Artificial Neural Network
+      
+
