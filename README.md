@@ -44,3 +44,50 @@
 </p>
 
 
+
+      First ECG Sensor is attached to patient body and all readings are Recorded and transferred
+      on cloud with the help of WIFI module. Once data is loaded onto cloud to our machine learning this
+      data is fetched as input and as a result it will predict weather the patient has sleep apnea or not.
+      Once the result is known (calculated) it is uploaded on to mobile.
+      
+ 
+**Low Level Design: -**
+
+      In this project we will detect Sleep Apnea Detection using machine learning. We have two
+      files main.py, splitdata.py, dataVisualization.py. splitdata.py file is python 3.7 file used to split raw
+      sleep apnea ECG data into python array and store it in ApneaData.pkl. Main.py is main file where
+      machine learning algorithms are implemented. dataVisualization.py graphically plots the data by
+      using dimensionality reduction techniques.
+      
+      Datasets
+      
+      Sleep Apnea dataset consists of around 16000 people ECG data sampled at 6000 sample
+      points each and 1 or 0 representing whether person have sleep Apnea or not. Data set structure
+      looks like
+      
+      [
+      [0,1,2,.....,6000,cls],
+      [0,1,2,.....,6000,cls],
+      [0,1,2,.....,6000,cls],
+      ...
+      ...
+      ...
+      ..
+      [0,1,2,.....,6000,cls]
+      ]
+      
+      cls maybe 0 or 1. 1 represents Apnea and 0 represents non Apnea    
+
+      Algorithms
+            The algorithm we are using is ensemble.RandomForestClassifier from sklearn which is faster
+            and more accurate. This algoritm is picked and tested with few other comparison. Feel free to
+            change other algorithm classifier(clf) from sklearn.
+            Using T-distributed Stochastic Neighbor Embedding algorithm to visualize data.
+      
+      
+**High Level Design: -**
+
+**High Level Design: -**
+
+**High Level Design: -**
+
